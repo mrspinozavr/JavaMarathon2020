@@ -1,6 +1,6 @@
 package day11.task2;
 
-public class Hero {
+public abstract class Hero {
     private double health;
     private double physDef;
     private double magicDef;
